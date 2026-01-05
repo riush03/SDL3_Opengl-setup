@@ -1,5 +1,3 @@
-Here's a clean, formatted README.md file with your vcpkg setup instructions:
-
 ```markdown
 # OpenGL Project Setup with vcpkg
 
@@ -193,9 +191,7 @@ Then run `vcpkg install` in your project directory.
 This setup guide is provided as-is. Refer to individual library licenses for usage.
 ```
 
-## Additional Files to Include
-
-You might also want to create these files:
+## Additional Files
 
 ### **vcpkg.json** (for manifest mode)
 ```json
@@ -236,4 +232,3 @@ vcpkg_installed/
 *.pdb
 ```
 
-This README provides clear, step-by-step instructions that users can follow to set up their OpenGL project with vcpkg.
